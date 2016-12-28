@@ -5,7 +5,7 @@ aliases and edit the documents to enrich our ability to make the search results
 more relavent. 
 
 There is a MongoDB server running which we will be creating a SSHtunnel to, once
-the connection is established we can use [**Robomongo**] to provide a graphical
+the connection is established we can use [**Robomongo**]( https://robomongo.org/download ) to provide a graphical
 interface to modify the documents present on the MongoDB server.
 
 TODO:
